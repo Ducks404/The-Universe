@@ -1,0 +1,7 @@
+{
+  "attachmentFolderPath": "Photos",
+  "userIgnoreFilters": [
+    ".git",
+    ".gitignore"
+  ]
+}
