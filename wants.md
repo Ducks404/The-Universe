@@ -1,0 +1,1 @@
+Goods and services that aren't necessary for human survival but humans desire

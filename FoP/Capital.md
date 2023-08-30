@@ -1,0 +1,2 @@
+## Manufactured resources
+
