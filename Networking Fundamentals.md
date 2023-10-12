@@ -83,8 +83,8 @@ Used as standard in communicating and identifying issues in layers
 | Layer | Name | Example |
 |---| --- | --- |
 |7 | Application | SSH
-|6 | Presentation | 
-|5 | Session |
+|6 | Presentation | SSL
+|5 | Session | 
 |4 | Transport | TCP
 |3 | Network | IP
 |2 | Data Link | ARP
