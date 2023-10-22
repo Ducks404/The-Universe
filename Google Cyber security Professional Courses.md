@@ -23,3 +23,9 @@
 
 [Glossary](https://docs.google.com/document/d/1XVx3PzR94WgSYofLOPl8l25LIGYwx5kwLgMf3gVnXRk/template/preview?usp=sharing)
 ## Course 4
+
+
+- Operating Systems
+- Linux OS
+- Linux Command Line
+- SQL
