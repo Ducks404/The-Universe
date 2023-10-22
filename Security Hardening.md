@@ -31,3 +31,16 @@
 - [[Logs and SIEM Tools#SIEM Tools|SIEM Tools]]
 - Intrusion Detection System
 - Intrusion Protection System
+
+## Cloud Hardening
+#### Shared responsibility model
+Both CSP and organization using their services should understand their responsibilities in the security of the network. e.g. CSP secures cloud and physical servers while organizations secures configuration rules, etc
+
+#### Cloud Security Considerations
+- Identity Access Management
+- Proper configuration
+- Attack surfaces
+- Zero-days
+- Visibility and tracking
+- Things change fast in cloud
+
