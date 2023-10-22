@@ -35,6 +35,7 @@ Desired activities grouped into Functions and Categories
 3. Detect: Developing activities to trigger security incident
 4. Respond: Develop activities to respond to security incident
 5. Recover: Develop activities to restore system to normal function
+##### [Implementation](https://docs.google.com/document/d/15yCDbDCOAcJw-LTz2DeCA7UeLRfvsf176T6MA6ku6ok/template/preview?usp=sharing)
 
 ### NIST' RMF (Risk Management Framework)
 Strengthen risk management
