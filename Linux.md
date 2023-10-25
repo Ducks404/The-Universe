@@ -13,7 +13,20 @@
 Command line interpreter
 
 ### Filesystem Hierarchy Standard
-A way to organize data so that it can be found when the data is accessed by the system.
+- A way to organize data so that it can be found when the data is accessed by the system.
+- EVERYTHING IS A FILE
+- `man hier` to learn about FHS
+#### Standard diretories
+- `/home`
+  - Place for each user
+- `/bin`
+  - Binaries and other executables
+- `/tmp`
+  - Temporary files
+- `/etc`
+  - System's config file
+- `/mnt`
+  - Mount, USB, hard drives, etc
 
 ### Kernel
 - Manages processes and memory
@@ -68,4 +81,3 @@ Pieces of software that can be combined to make programs
 ### Package manager tools
 - Programs that make is easy to install, manage, remove, update packages
 - eg. APT and YUM
-
