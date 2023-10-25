@@ -38,6 +38,13 @@ Command line interpreter
 - Peripheral: attached and can be removed
 - Internal: components required to run the computer
 
+## Permissions
+- Read, Write, Execute
+- User, Group, other
+- `drwxrwrwx`
+#### Changing permissions
+- `chmod u+x,g+w,o-r file.txt`
+
 ## Distributions (Distros/Flavors)
 Different distributions might have different pre-installed programs, UI, etc.
 
