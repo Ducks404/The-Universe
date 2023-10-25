@@ -1,0 +1,20 @@
+## File system
+- `pwd`
+- `ls`
+- `cd`
+- `cat`
+- `head`
+- `tail`
+- `less`
+- `grep`
+- `find`
+- `|`
+- `>`
+- `>>`
+- `mkdir`
+- `rmdir`
+- `touch`
+- `rm`
+- `mv`
+- `cp`
+- 
