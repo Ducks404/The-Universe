@@ -58,3 +58,14 @@ Different distributions might have different pre-installed programs, UI, etc.
 ### CentOS
 ###### Red Hat-based, 
 
+## Packages
+Pieces of software that can be combined to make programs
+
+### Package managers
+- Help Install, Manage, Remove packages
+- Specific package managers for specific parent distros; eg. dpkg for debian and rpm for red hat
+
+### Package manager tools
+- Programs that make is easy to install, manage, remove, update packages
+- eg. APT and YUM
+
