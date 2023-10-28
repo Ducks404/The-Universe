@@ -1,3 +1,8 @@
+## Commands
+- `man`
+- `whatis`
+- `apropos`
+
 ## File system
 - `pwd`
 - `ls`
@@ -17,4 +22,12 @@
 - `rm`
 - `mv`
 - `cp`
-- 
+
+## User
+- `sudo`
+- `useradd`
+- `userdel`
+- `usermod`
+- `chown`
+- `groupadd`
+- `groupdel`
