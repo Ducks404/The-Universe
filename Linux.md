@@ -2,6 +2,12 @@
 ### User
 - Person interacting with computer
 - Linux is multi-user
+#### Root user
+Super user that can do anything
+- logging in as root user is bad practice, security issues, easy to make mistakes, accountbility
+- `sudo` command to execute command as root
+- Only users in sudoer file can use `sudo`
+#### [[Linux commands#User|Commands]]
 
 ### Application
 - Programs that perform specific tasks
@@ -27,6 +33,7 @@ Command line interpreter
   - System's config file
 - `/mnt`
   - Mount, USB, hard drives, etc
+#### [[Linux commands#File system|Commands]]
 
 ### Kernel
 - Manages processes and memory
