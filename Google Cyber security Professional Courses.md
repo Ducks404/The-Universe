@@ -31,3 +31,10 @@
 - [SQL](https://docs.google.com/document/d/1QVfrtp4QywbvQ5ALupN7-gKNrXI9yrYDv6PyCwWVAYg/template/preview)
 
 [Glossary](https://docs.google.com/document/d/1ki6X7Q792RGNK8w0ltKIoB3So-8lqUx4Rdb7V94MdyM/template/preview?usp=sharing&resourcekey=0-z6oHYq011xfRKtaw-qXDMA)
+## Course 5
+
+- Assets Organizations protect
+- Security Systems and Controls
+- Common vulnerabilities in systems
+- Threats to asset security
+
