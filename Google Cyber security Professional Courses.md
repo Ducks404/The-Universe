@@ -2,7 +2,7 @@
 ## Course 1
 ![[Pasted image 20230906113004.png]]
 
-
+[Glossary](https://docs.google.com/document/d/1bBtBHYrrm4kmWJqJVmeNUDPG24ydGvc4ACMLoP9zzps/template/preview?usp=sharing&resourcekey=0-0uttQ9n9hmekaJBuPVjWMg)
 ## Course 2
 ![[Pasted image 20230906113059.png]]
 - [[CISSP Security Domain]]
@@ -25,7 +25,9 @@
 ## Course 4
 
 
-- Operating Systems
-- Linux OS
-- Linux Command Line
-- SQL
+- [[Operating Systems]]
+- [[Linux]]
+- [[Linux commands]]
+- [SQL](https://docs.google.com/document/d/1QVfrtp4QywbvQ5ALupN7-gKNrXI9yrYDv6PyCwWVAYg/template/preview)
+
+[Glossary](https://docs.google.com/document/d/1ki6X7Q792RGNK8w0ltKIoB3So-8lqUx4Rdb7V94MdyM/template/preview?usp=sharing&resourcekey=0-z6oHYq011xfRKtaw-qXDMA)
