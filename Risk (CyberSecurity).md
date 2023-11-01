@@ -1,5 +1,5 @@
 
-- Anything that can impact Confidentiality, Integrity, or Availability, ([[CIA (CyberSecurity)|CIA]])
+- Anything that can impact Confidentiality, Integrity, or Availability, ([[CIA (CyberSecurity)|CIA]]) of an asset
 - Vulnerability + Threat = Risk
 
 ### Risk Factors
