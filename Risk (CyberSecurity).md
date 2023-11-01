@@ -1,10 +1,17 @@
-Vulnerability + Threat = Risk
+
+- Anything that can impact Confidentiality, Integrity, or Availability, ([[CIA (CyberSecurity)|CIA]])
+- Vulnerability + Threat = Risk
 
 ### Risk Factors
 - Threats
 - Vulnerabilities
 - Impact of loss
 - Likelihood of occurrence
+
+### Aspects of Security Risk Planning
+- [[Assets]]
+- Threats
+- Vulnerabilities
 
 ### Responding to risks after Identification
 
