@@ -2,6 +2,10 @@
 - `man`
 - `whatis`
 - `apropos`
+- `ps aux`
+- `top`
+- `kill`
+- `systemctl`
 
 ## File system
 - `pwd`
@@ -16,6 +20,8 @@
 - `|`
 - `>`
 - `>>`
+- `&`
+- `ctrl+z`
 - `mkdir`
 - `rmdir`
 - `touch`
@@ -31,3 +37,11 @@
 - `chown`
 - `groupadd`
 - `groupdel`
+
+## Server
+- `python3 -m http.server`
+- `updog`
+- `wget`
+- `curl`
+- `scp`
+- `ssh`
