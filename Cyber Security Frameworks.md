@@ -29,13 +29,26 @@ EU's regulations on information handling
 
 ### NIST' CSF (Cyber Security Framework)
 Desired activities grouped into Functions and Categories
-#### Five core functions
+#### Five core functions (reference for security plan)
 1. Identify: Understand aspects of organization relating to risk, threats, vulnerabilities, and compliance
 2. Protect: Developing safeguards for critical services
 3. Detect: Developing activities to trigger security incident
 4. Respond: Develop activities to respond to security incident
 5. Recover: Develop activities to restore system to normal function
-##### [Implementation](https://docs.google.com/document/d/15yCDbDCOAcJw-LTz2DeCA7UeLRfvsf176T6MA6ku6ok/template/preview?usp=sharing)
+
+#### Tiers
+A way to measure performance across the core functions. Level-1 to Level-4 in increasing order
+
+#### Profiles
+Current state of a security plan, like snapshots
+
+#### Implementation
+- Create a current profile of the security operations and outline the specific needs of your business.
+- Perform a risk assessment to identify which of your current operations are meeting business and regulatory standards.
+- Analyze and prioritize existing gaps in security operations that place the businesses assets at risk.
+- Implement a plan of action to achieve your organization’s goals and objectives.
+##### [Implementation Template](https://docs.google.com/document/d/15yCDbDCOAcJw-LTz2DeCA7UeLRfvsf176T6MA6ku6ok/template/preview?usp=sharing)
+##### [Real Life Implementation](https://www.cisa.gov/sites/default/files/publications/Commercial_Facilities_Sector_Cybersecurity_Framework_Implementation_Guidance_FINAL_508.pdf)
 
 ### NIST' RMF (Risk Management Framework)
 Strengthen risk management
