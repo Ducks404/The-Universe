@@ -72,7 +72,7 @@ Official website: https://csrc.nist.gov/projects/risk-management/about-rmf
 - Separation of duties:
 	Critical tasks should be spread amongst multiple people
 
-- Principle of least privilege: 
+- [[PoLP|Principle of least privilege]]: 
 	e.g. Each user should only have enough permissions to do their job.
 
 - Defense in-depth: 
