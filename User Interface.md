@@ -10,6 +10,7 @@
 - Text based , use commands to interact with computer
 - More flexible and powerful than GUI
 - Allows for customization eg multiple tasks at same time
+- [[Shells]]
 - Analogy: Making own food
 ### Advantages
 - Efficiency

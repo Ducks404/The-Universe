@@ -1,6 +1,6 @@
 
 - Anything that can impact Confidentiality, Integrity, or Availability, ([[CIA (CyberSecurity)|CIA]]) of an asset
-- Vulnerability + Threat = Risk
+- [[Vulnerability Management|Vulnerability]] + Threat = Risk
 - Severity of Risk = Likelihood x Impact
 
 ### Risk Factors

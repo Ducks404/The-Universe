@@ -70,13 +70,13 @@ Official website: https://csrc.nist.gov/projects/risk-management/about-rmf
 	e.g. close open ports
 
 - Separation of duties:
-	Critical tasks should be spread amongst multiple people
+	Critical tasks should be spread amongst multiple people so as to disallow the misuse of the system
 
 - [[PoLP|Principle of least privilege]]: 
 	e.g. Each user should only have enough permissions to do their job.
 
-- Defense in-depth: 
-	Use multiple security controls and tools to cover all the bases
+- [[Defense in Depth]]: 
+	Use multiple security controls and tools to cover all the ~~bases~~
 
 - Keep security simple: 
 	Complexity would make collaboration difficult.
