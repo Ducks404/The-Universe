@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISSP Security Domain.md",
+                "file": "Defense in Depth.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,7 +149,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CISSP Security Domain.md",
+            "file": "Defense in Depth.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CISSP Security Domain.md",
+            "file": "Defense in Depth.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -178,7 +178,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CISSP Security Domain.md"
+            "file": "Defense in Depth.md"
           }
         }
       }
@@ -195,10 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3dd1c9833083e01",
+  "active": "d0f338fe17f37cad",
   "lastOpenFiles": [
-    "Cyber Security Frameworks.md",
     "CISSP Security Domain.md",
+    "Cyber Security Frameworks.md",
     "Defense in Depth.md",
     "Vulnerability Management.md",
     "Assets.md",
