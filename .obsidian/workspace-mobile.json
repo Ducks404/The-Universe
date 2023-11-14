@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defense in Depth.md",
+                "file": "Vulnerability Assessment.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,7 +149,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Defense in Depth.md",
+            "file": "Vulnerability Assessment.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Defense in Depth.md",
+            "file": "Vulnerability Assessment.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -178,7 +178,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Defense in Depth.md"
+            "file": "Vulnerability Assessment.md"
           }
         }
       }
@@ -195,12 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0f338fe17f37cad",
+  "active": "e3dd1c9833083e01",
   "lastOpenFiles": [
+    "Defense in Depth.md",
+    "Vulnerability Assessment.md",
+    "Vulnerability Management.md",
+    "wants.md",
+    "Security Audit.md",
+    "OSINT.md",
+    "PoLP.md",
     "CISSP Security Domain.md",
     "Cyber Security Frameworks.md",
-    "Defense in Depth.md",
-    "Vulnerability Management.md",
     "Assets.md",
     "Risk (CyberSecurity).md",
     "Identity and Access Management.md",
@@ -213,17 +218,12 @@
     "Google Cyber security Professional Courses.md",
     "Digital forensics.md",
     "Networking Fundamentals.md",
-    "PoLP.md",
     "Untitled",
     "Security Plans.md",
     "Cyber Security Controls.md",
-    "wants.md",
     "needs.md",
     "Types of good/Free good.md",
     "Types of good/Economic good.md",
-    "System Administration.md",
-    "Splunk (SIEM).md",
-    "Security Hardening.md",
     "Photos/Pasted image 20230906113059.png",
     "Photos/Pasted image 20230906113004.png",
     "Photos/Pasted image 20230906112742.png",
