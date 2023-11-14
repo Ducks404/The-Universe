@@ -6,11 +6,17 @@ Randomly guessing passwords
   	Attacker uses passwords they can think of
 - Dictionary Attack
   	Attacker uses a list of common passwords or passwords that relate to target
+- Reverse Dictionary Attack
+	Attacker uses a list of services and tries a login credential
+- Credential Stuffing
+	Attackers use stolen login credentials from previous data breaches to access user accounts at another organization
 #### Prevention
 - Multi-factor authentication
 - Salting and Hashing passwords
 - CAPTCHA OR reCAPTCHA
 - Password policies
+
+#### [[Cyber security Tools#Brute Force|Brute Forcing Tools]]
 
 ## Packet Sniffing
 Capturing unauthorized network packets
@@ -23,6 +29,8 @@ Capturing unauthorized network packets
 #### Prevention
 - Use VPN
 - Avoid public wifi
+
+#### Packet Sniffing Tools
 
 ## DDOS
 Sending overwhelming packets to server as to take it down
