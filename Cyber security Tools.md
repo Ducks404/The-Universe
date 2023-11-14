@@ -9,3 +9,10 @@
 
 
 ## Red Team
+
+#### Brute Force
+- Aircrack-ng
+- Hashcat 
+- John the Ripper
+- Ophcrack
+- THC Hydra
