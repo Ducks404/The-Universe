@@ -11,7 +11,7 @@
 
 ### Aspects of Security Risk Planning
 - [[Assets]]
-- Threats
+- [[Threats]]
 - Vulnerabilities
 
 ### Responding to risks after Identification
