@@ -11,3 +11,8 @@
 - **Closed-box testing** is when the tester has little to no access to internal systems—similar to a malicious hacker. This strategy is sometimes referred to as external, black-box, or zero knowledge penetration testing.
 - **Partial knowledge testing** is when the tester has limited access and knowledge of an internal system—for example, a customer service representative. This strategy is also known as gray-box testing.
 
+### Developing Attacker Mindset
+- **Identify a target**
+- **How can target be accessed**
+- **Evaluate Attack Vectors**
+- **Find tools and methods**
