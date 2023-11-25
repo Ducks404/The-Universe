@@ -38,3 +38,10 @@
 - Common vulnerabilities in systems
 - Threats to asset security
 
+
+
+
+## Modules to revisit
+- Course 5 module 4
+- Course 6 module 2 & 3 & 4
+
