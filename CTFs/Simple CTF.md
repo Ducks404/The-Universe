@@ -18,6 +18,9 @@ found exploit for the service `cms Made Simple 2.2.8`
 Found exploit online
 
 ## Cracked password
+got password `secret` and username `mitch`
 
 ## PrivEsc
+`sudo -l` to check permissions
+use vim `:!bash`
 
