@@ -29,6 +29,7 @@
 - `mv`
 - `cp`
 - `pdfinfo`
+- `exiftool`
 
 ## User
 - `su`
