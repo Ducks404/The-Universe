@@ -28,8 +28,10 @@
 - `rm`
 - `mv`
 - `cp`
+- `pdfinfo`
 
 ## User
+- `su`
 - `sudo`
 - `useradd`
 - `userdel`
