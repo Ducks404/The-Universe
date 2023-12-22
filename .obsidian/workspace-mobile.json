@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Roadmap.md",
+                "file": "Escalating Incidents.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -162,7 +162,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cybersecurity Roadmap.md",
+            "file": "Escalating Incidents.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Cybersecurity Roadmap.md",
+            "file": "Escalating Incidents.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -191,7 +191,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Cybersecurity Roadmap.md"
+            "file": "Escalating Incidents.md"
           }
         }
       }
@@ -210,33 +210,36 @@
   },
   "active": "a2d5f09b501e4cc4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Escalating Incidents.md",
+    "Laptop Changelog/Installing Obsidian with SSH troubles.md",
+    "/Laptop Changelog/Installing Obsidian with SSH troubles.md",
+    "Laptop Changelog",
+    "/Laptop Changelog",
+    "Stakeholders in Security.md",
+    "THM Learn/aoc2023/10-SQL Injection.md",
+    "/THM Learn/aoc2023/10-SQL Injection.md",
+    "Protect Data.md",
+    "Untitled",
+    "Cybersecurity Roadmap.md",
+    "THM Learn/aoc2023/08-FTK imager Digital forensics.md",
+    "THM Learn/aoc2023/07-proxy log analysis.md",
+    "THM Learn/aoc2023/06-Memory corruption.md",
+    "THM Learn/aoc2023/05-Legacy DOS.md",
+    "THM Learn/TODO.md",
+    "THM Learn/Overpass.md",
+    "/THM Learn/aoc2023/08-FTK imager Digital forensics.md",
+    "/THM Learn/aoc2023/07-proxy log analysis.md",
+    "/THM Learn/aoc2023/06-Memory corruption.md",
+    "/THM Learn/aoc2023/05-Legacy DOS.md",
+    "/THM Learn/TODO.md",
+    "/THM Learn/Overpass.md",
     "Photos/cyber-security.pdf",
     "Vulnerability Assessment.md",
-    "Cybersecurity Roadmap.md",
-    "Untitled",
     "PoLP.md",
     "tcpdump.md",
     "THM Learn/aoc2023/04-CeWL generating wordlist.md",
     "THM Learn/aoc2023/03-Bruteforce.md",
-    "THM Learn/aoc2023/02-Data science.md",
-    "THM Learn/aoc2023/01-NLP AI chatbot.md",
-    "THM Learn/Websec.md",
-    "THM Learn/OSI.md",
-    "THM Learn/OS Sec.md",
-    "THM Learn/Network Security.md",
-    "THM Learn/DFIR.md",
-    "THM Learn/Careers.md",
-    "THM Learn/Attack methodology.md",
-    "CTFs/rootme.md",
-    "CTFs/Vulnversity.md",
-    "CTFs/Simple CTF.md",
-    "CTFs/Basic Pentesting.md",
-    "CTFs/Agent Sudo.md",
-    "/tcpdump.md",
-    "/THM Learn/aoc2023/04-CeWL generating wordlist.md",
-    "/THM Learn/aoc2023/03-Bruteforce.md",
-    "/THM Learn/aoc2023/02-Data science.md",
-    "/THM Learn/aoc2023/01-NLP AI chatbot.md",
     "THM Learn/aoc2023",
     "THM Learn",
     "/THM Learn/aoc2023",
@@ -248,9 +251,6 @@
     "Photos/Pasted image 20230810223126.png",
     "Photos/Pasted image 20230810223042.png",
     "Photos/Pasted image 20230809111250.png",
-    "Penetration testing",
-    "Types of good",
-    "Sectors",
-    "Photos"
+    "Penetration testing"
   ]
 }
