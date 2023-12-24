@@ -39,3 +39,13 @@ Reset to defaults
 `sudo ufw reset`
 
 ### Honeypot
+#### Low-interaction
+A simple web server or such used to collect information on attack techniques
+
+#### High-interaction
+A more complex operating system or network that attracts adversaries
+
+#### PenTBox
+Simulate honeypot
+`./pentbox.rb`
+
