@@ -31,3 +31,4 @@ When to escalate a security event?
 - Familiarize yourself with the escalation policy of the organization you work for.
 - Follow the policy at all times.
 - Ask questions.
+- Know who to escalate to, ie [[Stakeholders in Security]]

@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escalating Incidents.md",
+                "file": "Stakeholders in Security.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -162,7 +162,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Escalating Incidents.md",
+            "file": "Stakeholders in Security.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Escalating Incidents.md",
+            "file": "Stakeholders in Security.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -191,12 +191,20 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Escalating Incidents.md"
+            "file": "Stakeholders in Security.md"
           }
+        }
+      },
+      {
+        "id": "53bafb843f2f32e0",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,8 +218,8 @@
   },
   "active": "a2d5f09b501e4cc4",
   "lastOpenFiles": [
-    "Untitled.md",
     "Escalating Incidents.md",
+    "Untitled.md",
     "Laptop Changelog/Installing Obsidian with SSH troubles.md",
     "/Laptop Changelog/Installing Obsidian with SSH troubles.md",
     "Laptop Changelog",
