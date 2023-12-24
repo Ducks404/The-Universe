@@ -1,5 +1,5 @@
 ### Hardware solutions
-- Firewall
+- [[Network Security#Firewall|Firewall]]
 - Intrusion detection system
 - Intrusion prevention system
 - VPN concentrator

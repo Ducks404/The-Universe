@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14eea6bb45b4810b",
+            "id": "02aac0c5896243e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM Learn/aoc2023/12-Defense in Depth.md",
+                "file": "THM Learn/aoc2023/13-Active Defenses.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#main-topic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THM Learn/aoc2023/12-Defense in Depth.md",
+                "file": "THM Learn/aoc2023/13-Active Defenses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THM Learn/aoc2023/12-Defense in Depth.md",
+                "file": "THM Learn/aoc2023/13-Active Defenses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THM Learn/aoc2023/12-Defense in Depth.md"
+                "file": "THM Learn/aoc2023/13-Active Defenses.md"
               }
             }
           },
@@ -174,10 +174,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ff2f515faeb40f5",
+  "active": "02aac0c5896243e3",
   "lastOpenFiles": [
-    "THM Learn/aoc2023/11-Active directory.md",
+    "Network Security.md",
+    "Security Hardening.md",
+    "Shells.md",
+    "THM Learn/Network Security.md",
+    "THM Learn/aoc2023/13-Active Defenses.md",
+    "Cyber Security Controls.md",
+    "Untitled.md",
     "THM Learn/aoc2023/12-Defense in Depth.md",
+    "THM Learn/aoc2023/11-Active directory.md",
     "THM Learn/aoc2023/01-NLP AI chatbot.md",
     "Laptop Changelog/Installing Obsidian with SSH troubles.md",
     "Stakeholders in Security.md",
@@ -190,23 +197,16 @@
     "Vulnerability Assessment.md",
     "Vulnerability Management.md",
     "wants.md",
-    "Network Security.md",
     "Laptop Changelog",
     "Chemistry 1 Index.md",
-    "Security Hardening.md",
     "Network Attacks.md",
     "Polar.md",
     "Chemistry",
     "Networking Fundamentals.md",
     "Network Protocols.md",
-    "Google Cyber security Professional Courses.md",
     "Photos/Pasted image 20230906113059.png",
     "Photos/Pasted image 20230906113004.png",
     "Photos/Pasted image 20230906112742.png",
-    "Cyber Security Frameworks.md",
-    "Risk (CyberSecurity).md",
-    "CIA (CyberSecurity).md",
-    "CISSP Security Domain.md",
     "Photos/Pasted image 20230810223126.png",
     "Photos",
     "Photos/Pasted image 20230810223042.png",
