@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stakeholders in Security.md",
+                "file": "THM Learn/aoc2023/13-Active Defenses.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -162,7 +162,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Stakeholders in Security.md",
+            "file": "THM Learn/aoc2023/13-Active Defenses.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Stakeholders in Security.md",
+            "file": "THM Learn/aoc2023/13-Active Defenses.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -191,7 +191,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Stakeholders in Security.md"
+            "file": "THM Learn/aoc2023/13-Active Defenses.md"
           }
         }
       },
@@ -218,13 +218,25 @@
   },
   "active": "a2d5f09b501e4cc4",
   "lastOpenFiles": [
+    "THM Learn/aoc2023/13-Active Defenses.md",
+    "PoLP.md",
+    "THM Learn/Network Security.md",
+    "Vulnerability Management.md",
+    "Stakeholders in Security.md",
+    "Network Monitoring.md",
+    "THM Learn/aoc2023/12-Defense in Depth.md",
+    "THM Learn/aoc2023/11-Active directory.md",
+    "/THM Learn/aoc2023/13-Active Defenses.md",
+    "/THM Learn/aoc2023/12-Defense in Depth.md",
+    "/THM Learn/aoc2023/11-Active directory.md",
+    "/THM Learn/Network Security.md",
+    "/Network Security.md",
+    "/Laptop Changelog/Installing Obsidian with SSH troubles.md",
     "Escalating Incidents.md",
     "Untitled.md",
     "Laptop Changelog/Installing Obsidian with SSH troubles.md",
-    "/Laptop Changelog/Installing Obsidian with SSH troubles.md",
     "Laptop Changelog",
     "/Laptop Changelog",
-    "Stakeholders in Security.md",
     "THM Learn/aoc2023/10-SQL Injection.md",
     "/THM Learn/aoc2023/10-SQL Injection.md",
     "Protect Data.md",
@@ -235,19 +247,7 @@
     "THM Learn/aoc2023/06-Memory corruption.md",
     "THM Learn/aoc2023/05-Legacy DOS.md",
     "THM Learn/TODO.md",
-    "THM Learn/Overpass.md",
-    "/THM Learn/aoc2023/08-FTK imager Digital forensics.md",
-    "/THM Learn/aoc2023/07-proxy log analysis.md",
-    "/THM Learn/aoc2023/06-Memory corruption.md",
-    "/THM Learn/aoc2023/05-Legacy DOS.md",
-    "/THM Learn/TODO.md",
-    "/THM Learn/Overpass.md",
     "Photos/cyber-security.pdf",
-    "Vulnerability Assessment.md",
-    "PoLP.md",
-    "tcpdump.md",
-    "THM Learn/aoc2023/04-CeWL generating wordlist.md",
-    "THM Learn/aoc2023/03-Bruteforce.md",
     "THM Learn/aoc2023",
     "THM Learn",
     "/THM Learn/aoc2023",
