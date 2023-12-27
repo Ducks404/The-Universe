@@ -11,7 +11,7 @@ Tactics, Techniques, and Procedures
 Target of adversary
 
 ### 2 Defensive Methods
-- #### Vulnerability Management
+- #### [[Vulnerability Management]]
 Keeping the infrastructure according to the security posture of the company
 
 - #### Threat Hunting
