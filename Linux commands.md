@@ -12,6 +12,7 @@
 - `ls`
 - `cd`
 - `cat`
+- `jq`
 - `head`
 - `tail`
 - `less`
