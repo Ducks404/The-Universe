@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM Learn/aoc2023/13-Active Defenses.md",
+                "file": "@TODO.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -162,7 +162,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "THM Learn/aoc2023/13-Active Defenses.md",
+            "file": "@TODO.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "THM Learn/aoc2023/13-Active Defenses.md",
+            "file": "@TODO.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -191,7 +191,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "THM Learn/aoc2023/13-Active Defenses.md"
+            "file": "@TODO.md"
           }
         }
       },
@@ -218,7 +218,10 @@
   },
   "active": "a2d5f09b501e4cc4",
   "lastOpenFiles": [
+    "/THM Learn/aoc2023/13-Active Defenses.md",
+    "/Network Monitoring.md",
     "THM Learn/aoc2023/13-Active Defenses.md",
+    "@TODO.md",
     "PoLP.md",
     "THM Learn/Network Security.md",
     "Vulnerability Management.md",
@@ -226,14 +229,12 @@
     "Network Monitoring.md",
     "THM Learn/aoc2023/12-Defense in Depth.md",
     "THM Learn/aoc2023/11-Active directory.md",
-    "/THM Learn/aoc2023/13-Active Defenses.md",
     "/THM Learn/aoc2023/12-Defense in Depth.md",
     "/THM Learn/aoc2023/11-Active directory.md",
     "/THM Learn/Network Security.md",
     "/Network Security.md",
     "/Laptop Changelog/Installing Obsidian with SSH troubles.md",
     "Escalating Incidents.md",
-    "Untitled.md",
     "Laptop Changelog/Installing Obsidian with SSH troubles.md",
     "Laptop Changelog",
     "/Laptop Changelog",
@@ -246,7 +247,6 @@
     "THM Learn/aoc2023/07-proxy log analysis.md",
     "THM Learn/aoc2023/06-Memory corruption.md",
     "THM Learn/aoc2023/05-Legacy DOS.md",
-    "THM Learn/TODO.md",
     "Photos/cyber-security.pdf",
     "THM Learn/aoc2023",
     "THM Learn",
