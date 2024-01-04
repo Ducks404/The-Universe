@@ -36,6 +36,7 @@ Function: Make computer run as efficient as ever while still easy to use
 4. Bootloader starts the operating system
 
 ### Interactions
+> Use [[User Interface]]
 1. User interacts with application for specific task
 2. Application sends requests to OS
 3. OS interprets requests and directs to appropriate component in hardware
