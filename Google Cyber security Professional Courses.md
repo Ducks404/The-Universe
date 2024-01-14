@@ -55,6 +55,10 @@
 ## Course 8
 ![[Pasted image 20240102183201.png]]
 
+- [[Escalating Incidents]]
+- [[Stakeholders in Security]]
+- [[CyberSecurity Resources]]
+
 [Glossary](https://docs.google.com/document/d/16YXHPp3fagt7coPtcEDlFUDzkmTRyLLyrjg7yuu0yOo/template/preview)
 ## Modules to revisit
 - Course 5 module 4

@@ -1,3 +1,5 @@
+## Related to [[Network Monitoring]]
+
 ## Firewall
 Monitors and filters incoming and outgoing traffic
 Could be by:

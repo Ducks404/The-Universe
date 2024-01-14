@@ -12,7 +12,7 @@
 - Monitor networks and reports to update systems and mitigate vulnerabilities
 - Identify and implement systems needed for optimal security
 
-## Incident Responer 
+## Incident Responder 
 ### (Identifies and mitigates attacks whilst an attackers operations are still unfolding)
 
 
