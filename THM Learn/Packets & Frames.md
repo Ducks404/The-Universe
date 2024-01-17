@@ -1,3 +1,4 @@
+#networkfundamentals 
 ## TCP
 - Stateful - establishes a connection 
 

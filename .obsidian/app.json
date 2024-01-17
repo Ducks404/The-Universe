@@ -3,5 +3,6 @@
   "userIgnoreFilters": [
     ".git",
     ".gitignore"
-  ]
+  ],
+  "newFileLocation": "current"
 }
