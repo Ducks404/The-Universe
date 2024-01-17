@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26812fa5acd8e61b",
+            "id": "109788decbe09a06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM Learn/aoc2023/AOC2023.md",
+                "file": "THM Learn/OSI.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Index",
+                "query": "udp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THM Learn/aoc2023/AOC2023.md",
+                "file": "THM Learn/OSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THM Learn/aoc2023/AOC2023.md",
+                "file": "THM Learn/OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THM Learn/aoc2023/AOC2023.md"
+                "file": "THM Learn/OSI.md"
               }
             }
           },
@@ -176,41 +176,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26812fa5acd8e61b",
+  "active": "109788decbe09a06",
   "lastOpenFiles": [
+    "THM Learn/Packets & Frames.md",
+    "THM Learn/OSI.md",
+    "THM Learn/TODO.md",
+    "THM Learn/Overpass.md",
     "THM Learn/OS Sec.md",
-    "Operating Systems.md",
-    "Shells.md",
-    "User Interface.md",
-    "Google Cyber security Professional Courses.md",
-    "Cyber security Tools.md",
-    "Cyber Security Frameworks.md",
-    "Security Controls.md",
     "Cyber Security Controls.md",
-    "THM Learn/aoc2023/13-Active Defenses.md",
+    "@TODO.md",
+    "Cyber security Tools.md",
+    "Google Cyber security Professional Courses.md",
+    "CISSP Security Domain.md",
+    "Brain dump.md",
+    "Assets.md",
+    "THM Learn/Network Security.md",
+    "Network Monitoring.md",
+    "Network Security.md",
+    "CyberSecurity Resources.md",
+    "Stakeholders in Security.md",
+    "Escalating Incidents.md",
+    "THM Learn/Careers.md",
+    "Cyber Security Frameworks.md",
+    "Computer Forensics.md",
     "CIA (CyberSecurity).md",
-    "Risk (CyberSecurity).md",
     "Chemistry 1 Index.md",
     "THM Learn/aoc2023/AOC2023.md",
-    "Nature of Economics.md",
-    "@TODO.md",
+    "Operating Systems.md",
+    "Shells.md",
     "Photos/Pasted image 20231225075648.png",
-    "Packet Details.md",
     "Photos/Pasted image 20240102183201.png",
     "Photos/Pasted image 20240102183130.png",
     "Photos/Pasted image 20240102183052.png",
     "Photos/Pasted image 20240102183018.png",
     "Photos/Pasted image 20240102182910.png",
-    "Detection Tools and Techniques.md",
-    "Suricata.md",
-    "Linux commands.md",
-    "THM Learn/TODO.md",
-    "Network Monitoring.md",
-    "Penetration testing.md",
     "Photos/cyber-security.pdf",
-    "THM Learn/aoc2023/14-Machine Learning.md",
-    "THM Learn/aoc2023/14-The Code.py.md",
-    "Network Security.md",
     "Laptop Changelog",
     "Chemistry",
     "Photos/Pasted image 20230906113059.png",

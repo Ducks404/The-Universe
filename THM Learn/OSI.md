@@ -6,7 +6,7 @@ Translator
 ## 5. Session
 Connections
 ## 4. Transport
-TCP/UDP
+[[Packets & Frames#TCP|TCP]]/[[Packets & Frames#UDP|UDP]]
 ## 3. Network
 - OSPF(Open Shorterst Path First)
 - RIP (Routing Information Protocol)
