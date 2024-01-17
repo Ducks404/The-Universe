@@ -20,4 +20,6 @@
 
 ### Intro to Defensive Security
 - [[DFIR]]
-- 
+
+### How the web works
+- [[DNS]]
