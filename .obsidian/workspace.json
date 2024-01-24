@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM Learn/DNS.md",
+                "file": "THM Learn/HTTP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THM Learn/DNS.md",
+                "file": "THM Learn/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THM Learn/DNS.md",
+                "file": "THM Learn/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THM Learn/DNS.md"
+                "file": "THM Learn/HTTP.md"
               }
             }
           },
@@ -178,20 +178,26 @@
   },
   "active": "ea4d389d61c2af85",
   "lastOpenFiles": [
-    "THM Learn/THM Index.md",
+    "THM Learn/HTTP.md",
     "THM Learn/DNS.md",
+    "THM Learn/THM Index.md",
+    "Photos/Pasted image 20240118124733.png",
+    "Hacking/Lateral Movement.md",
+    "Google Cyber security Professional Courses.md",
+    "Security Audit.md",
+    "Chemistry 1 Index.md",
+    "Hacking",
+    "THM Learn/LAN.md",
     "CTFs/Overpass.md",
     "THM Learn/Attack methodology.md",
     "THM Learn/Packets & Frames.md",
     "THM Learn/OSI.md",
     "THM Learn/Extending Networks.md",
-    "THM Learn/LAN.md",
     "THM Learn/TODO.md",
     "THM Learn/OS Sec.md",
     "Cyber Security Controls.md",
     "@TODO.md",
     "Cyber security Tools.md",
-    "Google Cyber security Professional Courses.md",
     "CISSP Security Domain.md",
     "Brain dump.md",
     "Assets.md",
@@ -199,11 +205,6 @@
     "Network Monitoring.md",
     "Network Security.md",
     "CyberSecurity Resources.md",
-    "Stakeholders in Security.md",
-    "Escalating Incidents.md",
-    "THM Learn/Careers.md",
-    "Cyber Security Frameworks.md",
-    "Computer Forensics.md",
     "Photos/Pasted image 20231225075648.png",
     "Photos/Pasted image 20240102183201.png",
     "Photos/Pasted image 20240102183130.png",
@@ -216,7 +217,6 @@
     "Photos/Pasted image 20230906113059.png",
     "Photos/Pasted image 20230906113004.png",
     "Photos/Pasted image 20230906112742.png",
-    "Photos/Pasted image 20230810223126.png",
     "Photos",
     "FoP",
     "Economic agents",

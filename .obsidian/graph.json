@@ -29,13 +29,6 @@
       }
     },
     {
-      "query": "tag:#networkfundamentals  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
       "query": "path:\"THM Learn\"  ",
       "color": {
         "a": 1,
@@ -60,6 +53,6 @@
   "repelStrength": 11.6839916839917,
   "linkStrength": 0.732848232848233,
   "linkDistance": 67,
-  "scale": 0.5857387744483444,
+  "scale": 1.4458589246720872,
   "close": true
 }
