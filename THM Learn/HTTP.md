@@ -60,7 +60,7 @@ Content-Length: 98
 - #### PUT - change data on server
 - #### DELETE - remove a record
 
-### Status codes
+## Status codes
 
 | Range___ | Name | Description |
 | ---- | ---- | ---- |
@@ -70,7 +70,7 @@ Content-Length: 98
 | 400-499 | Client Errors | Used to inform the client that there was an error with their request. |
 | 500-599 | Server Errors | This is reserved for errors happening on the server-side and usually indicate quite a major problem with the server handling the request. |
 
-#### Common status codes
+### Common status codes
 
 | Status Code | Description |
 | ---- | ---- |
@@ -86,6 +86,7 @@ Content-Length: 98
 | 500 - Internal Service Error | The server has encountered some kind of error with your request that it doesn't know how to handle properly. |
 | 503 - Service Unavailable | This server cannot handle your request as it's either overloaded or down for maintenance. |
 
+## Headers
 ### Request Headers
 
 Host: Some web servers host multiple websites, this header indicates which one you want
@@ -101,4 +102,16 @@ Content-Type: Tells client what type of data is being returned
 Content-Encoding: Tells client what compression is being used
 
 
-### Cookies
+## Cookies
+
+> Cookies come from the `set-cookie` header from the server and is stored on the browser.
+
+![[Pasted image 20240124164840.png]]
+Usually used for authentication but not in clear text
+#### **Viewing Your Cookies**
+
+- Using the developer tools, in your browser.
+- Click on the "Network" tab. 
+- This tab will show you a list of all the resources your browser has requested. 
+- You can click on each one to receive a detailed breakdown of the request and response. 
+- If your browser sent a cookie, you will see these on the "Cookies" tab of the request.
