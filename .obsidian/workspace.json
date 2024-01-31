@@ -8,15 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea4d389d61c2af85",
+            "id": "e24f9602ee89592a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "THM Learn/HTTP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": ".obsidian/appearance.json",
+                "staged": false
               }
             }
           }
@@ -50,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#networkfundamentals",
+                "query": "capital",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THM Learn/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THM Learn/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "THM Learn/HTTP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,38 +170,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea4d389d61c2af85",
+  "active": "3c3d61c55c44103a",
   "lastOpenFiles": [
+    "THM Learn/Web Servers.md",
+    "FoP/Capital.md",
+    "Markdown.md",
+    "THM Learn/THM Index.md",
+    "THM Learn/The Web.md",
+    "THM Learn/Websites.md",
+    "THM Learn/Careers.md",
+    "THM Learn/aoc2023/13-Active Defenses.md",
+    "Brain dump.md",
+    "Network Security.md",
+    "THM Learn/Extending Networks.md",
+    "Nature of Economics.md",
+    "FoP/Labor.md",
+    "FoP/Enterprise.md",
+    "Economic agents/Individuals.md",
+    "Economic agents/Government.md",
+    "Economic agents/Firms.md",
+    "THM Learn/HTTP.md",
     "Photos/Pasted image 20240124164840.png",
     "Internet Programming/Semantic Elements.md",
     "Hacking/Lateral Movement.md",
     "Assets.md",
     "Photos/Pasted image 20240124121021.png",
     "Internet Programming",
-    "THM Learn/HTTP.md",
     "THM Learn/DNS.md",
-    "THM Learn/THM Index.md",
     "Photos/Pasted image 20240118124733.png",
     "Google Cyber security Professional Courses.md",
     "Security Audit.md",
     "Chemistry 1 Index.md",
     "Hacking",
     "THM Learn/LAN.md",
-    "CTFs/Overpass.md",
-    "THM Learn/Attack methodology.md",
-    "THM Learn/Packets & Frames.md",
-    "THM Learn/OSI.md",
-    "THM Learn/Extending Networks.md",
-    "THM Learn/TODO.md",
-    "THM Learn/OS Sec.md",
-    "Cyber Security Controls.md",
-    "@TODO.md",
-    "Cyber security Tools.md",
-    "CISSP Security Domain.md",
-    "Brain dump.md",
-    "THM Learn/Network Security.md",
-    "Network Monitoring.md",
-    "Network Security.md",
     "Photos/Pasted image 20231225075648.png",
     "Photos/Pasted image 20240102183201.png",
     "Photos/Pasted image 20240102183130.png",
@@ -218,7 +213,6 @@
     "Laptop Changelog",
     "Chemistry",
     "Photos/Pasted image 20230906113059.png",
-    "Photos/Pasted image 20230906113004.png",
     "Photos",
     "FoP",
     "Economic agents",
