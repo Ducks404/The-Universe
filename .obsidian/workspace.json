@@ -13,7 +13,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/appearance.json",
+                "file": "Linux.md",
                 "staged": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "capital",
+                "query": "logs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,12 +170,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c3d61c55c44103a",
+  "active": "e24f9602ee89592a",
   "lastOpenFiles": [
+    "THM Learn/Linux Fundamentals 3.md",
+    "Google Chronicle.md",
+    "Logs and SIEM Tools.md",
+    "THM Learn/Mantaining Linux System.md",
+    "THM Learn/THM Index.md",
+    "@TODO.md",
+    "THM Learn/TODO.md",
+    "THM Learn/Linux Fundamentals 2.md",
+    "Linux.md",
     "THM Learn/Web Servers.md",
     "FoP/Capital.md",
     "Markdown.md",
-    "THM Learn/THM Index.md",
     "THM Learn/The Web.md",
     "THM Learn/Websites.md",
     "THM Learn/Careers.md",
@@ -191,18 +199,10 @@
     "Economic agents/Firms.md",
     "THM Learn/HTTP.md",
     "Photos/Pasted image 20240124164840.png",
-    "Internet Programming/Semantic Elements.md",
-    "Hacking/Lateral Movement.md",
-    "Assets.md",
     "Photos/Pasted image 20240124121021.png",
     "Internet Programming",
-    "THM Learn/DNS.md",
     "Photos/Pasted image 20240118124733.png",
-    "Google Cyber security Professional Courses.md",
-    "Security Audit.md",
-    "Chemistry 1 Index.md",
     "Hacking",
-    "THM Learn/LAN.md",
     "Photos/Pasted image 20231225075648.png",
     "Photos/Pasted image 20240102183201.png",
     "Photos/Pasted image 20240102183130.png",

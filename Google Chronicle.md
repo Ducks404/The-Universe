@@ -9,7 +9,7 @@ Can collect log data based on:
 ## Dashboards
 
 ### Main
-Overall view of logs
+Overall view of [[Logs and SIEM Tools#logs|logs]]
 ### IOC matches
 Highest most severe threat, risk, vulnerability
 ### Enterprise Insight
