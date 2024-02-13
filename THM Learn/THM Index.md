@@ -33,3 +33,10 @@
 - [[Linux commands]]
 - [[Linux Fundamentals 3]]
 - [[Mantaining Linux System]]
+- Continue to:
+	- Bash Scripting - [https://tryhackme.com/room/bashscripting](https://tryhackme.com/room/bashscripting)  
+	- Regular Expressions - [https://tryhackme.com/room/catregex](https://tryhackme.com/room/catregex)
+
+### Windows Fundamentals
+- [[Windows Fundamentals 1]]
+- 

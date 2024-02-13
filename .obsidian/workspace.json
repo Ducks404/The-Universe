@@ -8,13 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e24f9602ee89592a",
+            "id": "262a313c56bec791",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Linux.md",
-                "staged": false
+                "file": "Computer Vision/Computer Vision Index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -85,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Vision/Computer Vision Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Vision/Computer Vision Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Vision/Computer Vision Index.md"
+              }
             }
           },
           {
@@ -158,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,16 +176,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e24f9602ee89592a",
+  "active": "262a313c56bec791",
   "lastOpenFiles": [
     "THM Learn/Linux Fundamentals 3.md",
+    "THM Learn/Linux Fundamentals 2.md",
+    "THM Learn/Windows Fundamentals 1.md",
+    "Photos/Pasted image 20240213183341.png",
+    "THM Learn/THM Index.md",
+    "Computer Vision/Computer Vision Index.md",
+    "Computer Vision",
+    "THM Learn/TODO.md",
     "Google Chronicle.md",
     "Logs and SIEM Tools.md",
     "THM Learn/Mantaining Linux System.md",
-    "THM Learn/THM Index.md",
     "@TODO.md",
-    "THM Learn/TODO.md",
-    "THM Learn/Linux Fundamentals 2.md",
     "Linux.md",
     "THM Learn/Web Servers.md",
     "FoP/Capital.md",
@@ -195,9 +205,6 @@
     "FoP/Labor.md",
     "FoP/Enterprise.md",
     "Economic agents/Individuals.md",
-    "Economic agents/Government.md",
-    "Economic agents/Firms.md",
-    "THM Learn/HTTP.md",
     "Photos/Pasted image 20240124164840.png",
     "Photos/Pasted image 20240124121021.png",
     "Internet Programming",
@@ -212,11 +219,9 @@
     "Photos/cyber-security.pdf",
     "Laptop Changelog",
     "Chemistry",
-    "Photos/Pasted image 20230906113059.png",
     "Photos",
     "FoP",
     "Economic agents",
-    "Sectors",
-    "Types of good"
+    "Sectors"
   ]
 }
