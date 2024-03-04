@@ -38,5 +38,5 @@
 	- Regular Expressions - [https://tryhackme.com/room/catregex](https://tryhackme.com/room/catregex)
 
 ### Windows Fundamentals
-- [[Windows Fundamentals 1]]
+- [[Windows Fundamentals]]
 - 
