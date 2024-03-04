@@ -8,15 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "262a313c56bec791",
+            "id": "af4dc09ab6cff48a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Computer Vision/Computer Vision Index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Portswigger Learn/SQLi.md",
+                "staged": false
               }
             }
           }
@@ -50,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "logs",
+                "query": "software defi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/Computer Vision Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Vision/Computer Vision Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Vision/Computer Vision Index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,14 +170,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "262a313c56bec791",
+  "active": "af4dc09ab6cff48a",
   "lastOpenFiles": [
+    "Network+/1.3 Cables and Connectors.md",
+    "Network+/1.2 Network Topologies and Types.md",
+    "Network+/1.1 Networking Fundamentals.md",
+    "Portswigger Learn/SQLi.md",
+    "Network+",
+    "THM Learn/Windows Fundamentals.md",
+    "Portswigger Learn",
+    "THM Learn/Core Windows Processes.md",
+    "Computer Vision/Computer Vision Index.md",
     "THM Learn/Linux Fundamentals 3.md",
     "THM Learn/Linux Fundamentals 2.md",
-    "THM Learn/Windows Fundamentals 1.md",
     "Photos/Pasted image 20240213183341.png",
     "THM Learn/THM Index.md",
-    "Computer Vision/Computer Vision Index.md",
     "Computer Vision",
     "THM Learn/TODO.md",
     "Google Chronicle.md",
@@ -201,10 +202,6 @@
     "Brain dump.md",
     "Network Security.md",
     "THM Learn/Extending Networks.md",
-    "Nature of Economics.md",
-    "FoP/Labor.md",
-    "FoP/Enterprise.md",
-    "Economic agents/Individuals.md",
     "Photos/Pasted image 20240124164840.png",
     "Photos/Pasted image 20240124121021.png",
     "Internet Programming",
@@ -220,8 +217,6 @@
     "Laptop Changelog",
     "Chemistry",
     "Photos",
-    "FoP",
-    "Economic agents",
-    "Sectors"
+    "FoP"
   ]
 }
