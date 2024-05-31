@@ -8,13 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af4dc09ab6cff48a",
+            "id": "56333246cc510d1e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "Portswigger Learn/SQLi.md",
-                "staged": false
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -48,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "software defi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Portswigger Learn/SQLi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Portswigger Learn/SQLi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Portswigger Learn/SQLi.md"
+              }
             }
           },
           {
@@ -170,11 +176,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af4dc09ab6cff48a",
+  "active": "56333246cc510d1e",
   "lastOpenFiles": [
-    "Network+/1.3 Cables and Connectors.md",
+    "THM Learn/Packet Analysis.md",
+    "THM Learn/aoc2022/Day 13 Packet Analysis Report.md",
+    "Linux commands.md",
+    "THM Learn/Websec.md",
+    "THM Learn/aoc2023/AOC2023.md",
+    "THM Learn/aoc2023/08-FTK imager Digital forensics.md",
+    "THM Learn/Attack methodology.md",
+    "THM Learn/aoc2022",
+    "The Forage/Example Phishing.md",
+    "Photos/Pasted image 20240520154518.png",
+    "The Forage",
+    "Photos/Pasted image 20240515122148.png",
+    "Photos/Pasted image 20240515122126.png",
+    "Photos/Pasted image 20240515122121.png",
+    "Photos/Pasted image 20240515122116.png",
     "Network+/1.2 Network Topologies and Types.md",
+    "Network+/1.3 Cables and Connectors.md",
     "Network+/1.1 Networking Fundamentals.md",
+    "Photos/Pasted image 20240304153229.png",
+    "Network+/Configuring/Configuring DHCP.md",
+    "Network+/Configuring",
+    "Network+/Subnetting.md",
+    "Photos/Pasted image 20240304155345.png",
+    "Photos/Pasted image 20240304153524.png",
+    "Photos/Pasted image 20240304153519.png",
     "Portswigger Learn/SQLi.md",
     "Network+",
     "THM Learn/Windows Fundamentals.md",
@@ -192,31 +220,9 @@
     "THM Learn/Mantaining Linux System.md",
     "@TODO.md",
     "Linux.md",
-    "THM Learn/Web Servers.md",
-    "FoP/Capital.md",
-    "Markdown.md",
-    "THM Learn/The Web.md",
-    "THM Learn/Websites.md",
-    "THM Learn/Careers.md",
-    "THM Learn/aoc2023/13-Active Defenses.md",
-    "Brain dump.md",
-    "Network Security.md",
-    "THM Learn/Extending Networks.md",
-    "Photos/Pasted image 20240124164840.png",
-    "Photos/Pasted image 20240124121021.png",
     "Internet Programming",
-    "Photos/Pasted image 20240118124733.png",
     "Hacking",
-    "Photos/Pasted image 20231225075648.png",
-    "Photos/Pasted image 20240102183201.png",
-    "Photos/Pasted image 20240102183130.png",
-    "Photos/Pasted image 20240102183052.png",
-    "Photos/Pasted image 20240102183018.png",
-    "Photos/Pasted image 20240102182910.png",
     "Photos/cyber-security.pdf",
-    "Laptop Changelog",
-    "Chemistry",
-    "Photos",
-    "FoP"
+    "Laptop Changelog"
   ]
 }
