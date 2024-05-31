@@ -22,3 +22,5 @@ Installing [[Detection Tools and Techniques#Intrusion Detection Systems|IDS]] to
 - CIDR: /24 is full, /25 is half
 Attacker found client with password on they're half but couldnt get high-value database on other half
 
+#### Extra points
+
