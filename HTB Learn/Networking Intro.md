@@ -17,10 +17,18 @@ Installing [[Detection Tools and Techniques#Intrusion Detection Systems|IDS]] to
 -> Bushes in front of windows
 - Deters from breaking into window
 -> Why did port scan come from **printer**?
-#### Pentester Story
+### Pentester Story
 >Misunderstood structure of network causes a database to be hidden from sight
 - CIDR: /24 is full, /25 is half
 Attacker found client with password on they're half but couldnt get high-value database on other half
 
-#### Extra points
+![[Pasted image 20240531233013.png]]
+
+### Extra points
+- Web server should be in [[Network Security#Network Segments|Demilitarized zone]]
+- Workstations on their on network and cannot talk to each other 
+	(mitigates mitm and spoofing attacks)
+- Switch and router on "Administration" network (w/o it --> OSPF advertisements and mitm)
+- IP Phones on their own network
+- Printer on their own network (Printer will ask for credentials --> NTLMv2 from workstation)
 

@@ -13,7 +13,7 @@ A group of connected devices
 ### LAN (Local Area Network)
 Covers a small space, eg, office or home
 
-### WAN (Wide Area Network)
+### [[Network Types#WAN|WAN]] (Wide Area Network)
 Covers a large geographical location
 
 ## [[Network Security]]
