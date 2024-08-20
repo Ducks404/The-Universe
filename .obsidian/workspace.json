@@ -4,24 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e900c99210320cb2",
+        "id": "14026e6fb7e3d379",
         "type": "tabs",
         "children": [
           {
-            "id": "41f9c4f2ffe344fd",
+            "id": "54fd8f05510965e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Learn/Networking Key Terminology.md",
+                "file": "HTB Learn/Vendor Specific Information (Cisco IOS).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -50,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "virtual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB Learn/Networking Key Terminology.md",
+                "file": "HTB Learn/Vendor Specific Information (Cisco IOS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB Learn/Networking Key Terminology.md",
+                "file": "HTB Learn/Vendor Specific Information (Cisco IOS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB Learn/Networking Key Terminology.md"
+                "file": "HTB Learn/Vendor Specific Information (Cisco IOS).md"
               }
             }
           },
@@ -164,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,53 +176,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41f9c4f2ffe344fd",
+  "active": "54fd8f05510965e8",
   "lastOpenFiles": [
-    "HTB Learn/Wireless Network.md",
-    "HTB Learn/VOIP.md",
-    "HTB Learn/ICMP.md",
-    "HTB Learn/TCP IP.md",
-    "HTB Learn/TCP Common Ports.md",
-    "HTB Learn/UDP Common Ports.md",
-    "HTB CTF/HTB Starting Point.md",
-    "HTB CTF",
-    "HTB Learn/Networking Key Terminology.md",
-    "HTB Learn/ARP.md",
-    "HTB Learn/Proxy.md",
-    "HTB Learn/Network Topologies.md",
-    "HTB Learn/Network Types.md",
-    "Chemistry 1 Index.md",
-    "THM Learn/TODO.md",
-    "THM Learn/OhSINT.md",
-    "THM Learn/Fowsniff.md",
-    "THM Learn/MrRobot.md",
-    "THM Learn/Attack Types Cheat Sheet.md",
-    "THM Learn/Attack methodology.md",
-    "ISC2/Certified in Cybersecurity Intro.md",
-    "@TODO.md",
-    "ISC2",
-    "Networking Fundamentals.md",
-    "Network+/1.2 Network Topologies and Types.md",
-    "HTB Learn/Networking Intro.md",
+    "HTB Learn/Vendor Specific Information (Cisco IOS).md",
     "Network Security.md",
+    "HTB Learn/Networking Key Terminology.md",
+    "HTB Learn/VPN.md",
+    "HTB Learn/Wireless Network.md",
+    "HTB Learn/TCP Common Ports.md",
+    "THM Learn/TODO.md",
+    "THM Learn/Linux Fundamentals 3.md",
+    "THM Learn/Linux Fundamentals 2.md",
+    "THM Learn/Windows Fundamentals.md",
+    "Network+/1.2 Network Topologies and Types.md",
+    "Network+/1.1 Networking Fundamentals.md",
+    "HTB Learn/VOIP.md",
+    "HTB Learn/UDP Common Ports.md",
+    "HTB Learn/TCP IP.md",
+    "HTB Learn/Proxy.md",
+    "HTB Learn/Networking Intro.md",
+    "HTB Learn/Network Types.md",
+    "HTB Learn/Network Topologies.md",
+    "Google Cloud Skills/Artificial Intelligence/G-GENAI-I-m1-l2-en-file-2.en.pdf",
+    "Cybersecurity Roadmap.md",
+    "CyberSecurity Resources.md",
+    "Cyber security Tools.md",
+    "Network+/Subnetting.md",
+    "Network+/Configuring/Configuring DHCP.md",
+    "HTB Learn/ICMP.md",
+    "HTB Learn/ARP.md",
+    "Google Cloud Skills/Artificial Intelligence/G-GENAI-I-m1-l2-en-file-2.en.pdf.crdownload",
+    "Photos/Pasted image 20240717161419.png",
+    "Photos/Pasted image 20240717161356.png",
+    "Photos/Pasted image 20240717161352.png",
+    "Photos/Pasted image 20240717160919.png",
+    "Photos/Pasted image 20240717155715.png",
+    "Photos/Pasted image 20240717154127.png",
+    "Google Cloud Skills/Artificial Intelligence",
+    "Google Cloud Skills",
+    "HTB CTF",
+    "ISC2",
     "Photos/Pasted image 20240531233013.png",
-    "Laptop Changelog/Installing Obsidian with SSH troubles.md",
     "HTB Learn",
     "THM Learn/aoc2022",
     "Photos/Pasted image 20240520154518.png",
     "The Forage",
     "Photos/Pasted image 20240515122148.png",
     "Photos/Pasted image 20240515122126.png",
-    "Photos/Pasted image 20240515122121.png",
-    "Photos/Pasted image 20240515122116.png",
-    "Photos/Pasted image 20240304153229.png",
-    "Network+/Configuring",
-    "Photos/Pasted image 20240304155345.png",
-    "Photos/Pasted image 20240304153524.png",
-    "Photos/Pasted image 20240304153519.png",
-    "Network+",
-    "Portswigger Learn",
-    "Computer Vision",
-    "Internet Programming"
+    "Network+/Configuring"
   ]
 }
