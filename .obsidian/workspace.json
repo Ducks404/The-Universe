@@ -11,12 +11,10 @@
             "id": "54fd8f05510965e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "HTB Learn/Vendor Specific Information (Cisco IOS).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": ".obsidian/plugins/obsidian-git/manifest.json",
+                "staged": false
               }
             }
           }
@@ -86,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB Learn/Vendor Specific Information (Cisco IOS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB Learn/Vendor Specific Information (Cisco IOS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HTB Learn/Vendor Specific Information (Cisco IOS).md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,6 +172,7 @@
   "active": "54fd8f05510965e8",
   "lastOpenFiles": [
     "HTB Learn/Vendor Specific Information (Cisco IOS).md",
+    "conflict-files-obsidian-git.md",
     "Network Security.md",
     "HTB Learn/Networking Key Terminology.md",
     "HTB Learn/VPN.md",
@@ -204,7 +198,6 @@
     "Network+/Subnetting.md",
     "Network+/Configuring/Configuring DHCP.md",
     "HTB Learn/ICMP.md",
-    "HTB Learn/ARP.md",
     "Google Cloud Skills/Artificial Intelligence/G-GENAI-I-m1-l2-en-file-2.en.pdf.crdownload",
     "Photos/Pasted image 20240717161419.png",
     "Photos/Pasted image 20240717161356.png",
