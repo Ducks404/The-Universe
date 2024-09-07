@@ -81,8 +81,6 @@
 - Can't perform system level changes such as installing programs
 #### Local User and Group Management
 - `run` ->`lusrmgr.msc`
-#### Groups
-- Users can be assigned to groups and inherit their permissions
 ## User Account Control
 >Standard users don't need escalated privileges to do normal tasks and in an escalated state, malware can affect a system more
 
@@ -144,55 +142,13 @@ Read more:
 	- Useful for debugging
 	- Event Viewer has three panes:
 		1. The pane on the left provides a hierarchical tree **listing of the event log providers.**
-		2. The pane in the middle will display a **general overview and summary of the events** specific to a selected provider.
+		2. The pane in the middle will display a **general overview and summary **of the events specific to a selected provider.
 		3. The pane on the right is the **actions** pane.
 	- Five types of events: ([Docs](https://docs.microsoft.com/en-us/windows/win32/eventlog/event-types))
 	- Four types of standard logs: ([Docs](https://docs.microsoft.com/en-us/windows/win32/eventlog/eventlog-key))
 	- [THM Room](https://tryhackme.com/room/windowseventlogs)
-- Shared Folders:
-	- Shares and folders that others can connect to
-	- Shares:
-		- default share of Windows, C\$, and default remote administration shares created by Windows, such as ADMIN$.
-		- Right click to view properties
-	- Sessions:
-		- List of users connected to shares
-	- Open Files:
-		- Folders/Files that users are connected to
-- Local User and Groups:
-	- [[Windows Fundamentals#User Accounts|User Accounts]]
-- Performance:
-	- Utility called performance monitor (perfmon)
-	- View performance data either in real-time or from a log file
-	- Troubleshooting performance issues on a computer system
-- Device Manager:
-	- View and configure hardware
-### Storage
-- Disk Management
-	- Advanced storage tasks such as dealing with partitions
-- Windows Server Backup
-	- (Missing info from room)
-### Services and Applications
-- Can display [[Windows Fundamentals#services|Services]] properties
-- **Windows Management Instrumentation** (WMI) service:
-	- Per Wikipedia, "_WMI allows scripting languages (such as VBScript or Windows PowerShell) to manage Microsoft Windows personal computers and servers, both locally and remotely. Microsoft also provides a command-line interface to WMI called Windows Management Instrumentation Command-line (WMIC)._"
-	- **Note**: The WMIC tool is ==deprecated== in Windows 10, version 21H1. Windows PowerShell supersedes this tool for WMI.
-
-## System Information
->`msinfo32`
->_Gathers information about your computer and displays a comprehensive view of your hardware, system components, and software environment, which you can use to diagnose computer issues_
-### Hardware Resources
-- Not for average user
-- Refer to [Microsoft's Page](https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/hardware-resources#:~:text=Hardware%20resources%20are%20the%20assignable,of%20bus%2Drelative%20memory%20addresses.)
-### Components
-- Specific information about the hardware devices installed on the computer
-### Software Environment
-- Information about software baked into the operating system and software you have installed
-- Environment Variables:
-	- Information about the operating system environment
-		- operating system path
-		- number of processors used by the operating system
-		- location of temporary folders
-	- Used by the operating system and other programs
-	- Example: the `WINDIR` environment variable contains the `location of the Windows installation directory`. Programs can query the value of this variable to determine where Windows operating system files are located.
-- Network Connections:
 	- 
+### Storage
+
+### Services and Applications
+
