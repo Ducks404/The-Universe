@@ -4,24 +4,24 @@ Network protocols are a set of **rules** used by two or more devices on a netw
 - Management
 - Security
 
-| Protocol | Port | Layer (OSI)  | Description|
-|---       |---   |---           |---         |
-|DNS       |UDP/53|Application(7)|Resolves Domain Names into IP address using table
-|DHCP      |UDP/67(server)<br>UDP/68(client)    |Application(7)|Assigns IP address to devices and configures DNS server and default gateway
-|HTTP      |80    |Application(7)|Provides communication between client and web server. (INSECURE)
-|Telnet    |TCP/23|Application(7)|Allows device to communicate over network. Sends all in clear text (INSECURE)
-|SNMP      |      |Application(7)|Monitoring and managing devices on a network
-|HTTPS     |443   |Application(7)|HTTP but with SSL/TLS encryption to make it secure
-|SSH       |22    |Application(7)|Create secure connection with remote device
-|SFTP      |22    |Application(7)|Transfers files through SSH
-|POP3      |110(unencrypted)<br>995(encrypted)    |Application(7)|Manage and receive emails from email server
-|IMAP      |143(unencrypted)<br>993(encrypted)    |Application(7)|Incoming email, downloads header
-|SMTP      |587   |Application(7)|Transmit and route email
-|TCP       |      |Transport(4)  |Used to make connection between two devices through a three-way handshake.<br>Syn --> Syn/Ack --> Ack
-|UDP       |      |Transport(4)  |Does not establish a connection before sending data, less reliable but faster
-|NAT       |      |Network(3)    |Changes private IP to public IP in IP header
-|ARP       |      |Network(3)    |Resolves IP address into Mac address
-|ICMP      |      |Network(3)    |Used by devices to tell each other about data transmission error    
+| Protocol | Port                               | Layer (OSI)    | Description                                                                                           |
+| -------- | ---------------------------------- | -------------- | ----------------------------------------------------------------------------------------------------- |
+| [[DNS]]  | UDP/53                             | Application(7) | Resolves Domain Names into IP address using table                                                     |
+| DHCP     | UDP/67(server)<br>UDP/68(client)   | Application(7) | Assigns IP address to devices and configures DNS server and default gateway                           |
+| HTTP     | 80                                 | Application(7) | Provides communication between client and web server. (INSECURE)                                      |
+| Telnet   | TCP/23                             | Application(7) | Allows device to communicate over network. Sends all in clear text (INSECURE)                         |
+| SNMP     |                                    | Application(7) | Monitoring and managing devices on a network                                                          |
+| HTTPS    | 443                                | Application(7) | HTTP but with SSL/TLS encryption to make it secure                                                    |
+| SSH      | 22                                 | Application(7) | Create secure connection with remote device                                                           |
+| SFTP     | 22                                 | Application(7) | Transfers files through SSH                                                                           |
+| POP3     | 110(unencrypted)<br>995(encrypted) | Application(7) | Manage and receive emails from email server                                                           |
+| IMAP     | 143(unencrypted)<br>993(encrypted) | Application(7) | Incoming email, downloads header                                                                      |
+| SMTP     | 587                                | Application(7) | Transmit and route email                                                                              |
+| TCP      |                                    | Transport(4)   | Used to make connection between two devices through a three-way handshake.<br>Syn --> Syn/Ack --> Ack |
+| UDP      |                                    | Transport(4)   | Does not establish a connection before sending data, less reliable but faster                         |
+| NAT      |                                    | Network(3)     | Changes private IP to public IP in IP header                                                          |
+| ARP      |                                    | Network(3)     | Resolves IP address into Mac address                                                                  |
+| ICMP     |                                    | Network(3)     | Used by devices to tell each other about data transmission error                                      |
 
 ## Wireless protocols
 #### IEEE 802.11 also known as wifi

@@ -1,4 +1,3 @@
-# CISCO IOS
 >Cisco networking devices' operating system
 
 - Features required for the operation of modern networks, such as, but not limited to:
@@ -27,24 +26,5 @@
 | `Enable Secret`   | The [enable secret](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/security/d1/sec-d1-cr-book/sec-cr-e1.html#wp3438133060) is an extra-secure password used to secure access to "enable" mode, and they are stored encrypted to provide additional protection. |
 - Can be accessed remotely with SSH/Telnet
 
-## VLAN
->Making a network without regard to physical location
->-> Adding endpoints from remote places
->-> Segmenting a network into multiple networks
 
-- Benefits when using `VLANs`, including:
-	- **`Better Organization`**: Network administrators can group endpoints based on any common attribute they share.
-	- **`Increased Security`**: Network segmentation disallows unauthorized members from sniffing network packets in other `VLANs`.
-	- **`Simplified Administration`**: Network administrators do not have to worry about the physical locations of an endpoint.
-	- **`Increased Performance`**: With reduced broadcast traffic for all endpoints, more bandwidth is made available for use by the network.
-- Cisco switches provide the `VLAN` IDs/numbers 1-4094 
-
-| ID Range  | Usage                                                    |
-| --------- | -------------------------------------------------------- |
-| 0         | Reserved and unusable                                    |
-| 1         | default VLAN; Cannot be altered not deleted              |
-| 2-1001    | Normal-range VLANs; Config stored in `vlan.dat`*         |
-| 1002-1005 | Token Ring and Fiber Distributed Data Interface(?) VLANs |
-| 1006-4094 | Extended-range VLANs; Customization not saved            |
-\*Stored in `vlan.dat` can have parameters including name, type, state, and maximum transmission unit (`MTU`).
-
+## Cisco Discovery Protocol

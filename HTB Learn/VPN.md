@@ -40,3 +40,6 @@ UDP/500 for IKEv1 and IKEv2
 - KNOWN VULNERABLITIES, DEPRECATED
 - Largely replaced by more secure VPN protocols like L2TP/IPsec, IPsec/IKEv2, and OpenVPN
 - Authentication method, MSCHAPv2, employs the outdated DES encryption, which can be easily cracked with specialized hardware
+
+Other more secure protocols:
+- L2TP/IPsec, IPsec/IKEv2, and OpenVPN

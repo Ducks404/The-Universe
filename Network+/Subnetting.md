@@ -1,3 +1,4 @@
+>Virtually dividing a network into subnetworks by separating network addresses
 ## Binary maths
 ## IPv4 addresses
 ### IP Address

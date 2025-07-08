@@ -1,5 +1,5 @@
 #networkfundamentals
-## Subnetting
+## [[Subnetting]]
 >Virtually dividing a network into subnetworks by separating network addresses
 
 | Name | Description | Example |

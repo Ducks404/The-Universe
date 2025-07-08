@@ -22,7 +22,7 @@ Could be by:
 - **Next-generation firewall:** 
 	This firewall combines the functionalities of the stateless, stateful, and proxy firewalls with features such as intrusion detection and prevention and content filtering.
 
-## Virtual Private Network (VPN)
+## Virtual Private Network ([[VPN]])
 Network security service that changes your public IP address and hides your virtual location Encapsulates and encrypts network packets and sends them to vpn server
 ### Protocols
 - Wireguard
@@ -50,7 +50,7 @@ Segment of network that protects internal network
 	- Internal network, self-explanatory
 	- Restricted zone, highly confidential information
 
-### Subnetting
+### [[Subnetting]]
 Segmenting is done by subnetting a network
 Separates network based on IP address and subnet mask
 

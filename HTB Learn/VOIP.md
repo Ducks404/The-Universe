@@ -1,4 +1,4 @@
-> TCP 5060/5061 - Session Initiation Protocol
+> [[TCP Common Ports|TCP]] 5060/5061 - Session Initiation Protocol
 > TCP 1720 - H.323
 
 ## Session Initiation Protocol

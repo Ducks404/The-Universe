@@ -8,38 +8,122 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#main-topic",
+      "query": "tag:#Index  ",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "tag:#main-topic  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#Index",
+      "query": "path:\"Computer Vision\" ",
       "color": {
         "a": 1,
-        "rgb": 5405920
-      }
-    },
-    {
-      "query": "path:\"THM Learn/aoc2023\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701269
-      }
-    },
-    {
-      "query": "path:\"THM Learn\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
+        "rgb": 14701138
       }
     },
     {
       "query": "path:CTFs  ",
       "color": {
         "a": 1,
-        "rgb": 16771584
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Economic agents\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:FoP  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Google Cloud Skills\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Google Cloud Skills/Artificial Intelligence\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Hacking  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"HTB CTF\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"HTB Learn\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:\"Internet Programming\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16684437
+      }
+    },
+    {
+      "query": "path:ISC2  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Laptop Changelog\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Network+  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Portswigger Learn\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"THM Learn\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
@@ -53,10 +137,6 @@
   "repelStrength": 11.6839916839917,
   "linkStrength": 0.732848232848233,
   "linkDistance": 67,
-<<<<<<< HEAD
-  "scale": 0.44575806407133717,
-=======
-  "scale": 1.0477181064469725,
->>>>>>> origin/main
+  "scale": 0.5123525244698639,
   "close": true
 }
