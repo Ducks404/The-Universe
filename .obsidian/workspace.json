@@ -126,9 +126,24 @@
               "icon": "lucide-file",
               "title": "Blind Search"
             }
+          },
+          {
+            "id": "92eb4608445b49e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB Learn/Cisco IOS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Cisco IOS"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -307,10 +322,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ff2f515faeb40f5",
+  "active": "92eb4608445b49e8",
   "lastOpenFiles": [
-    "References/FoAI/Game Playing.md",
+    "conflict-files-obsidian-git.md",
     "Projects/Trading/Plan.md",
+    "Internship/📝 Report 7-7.md",
+    "Internship",
+    "Home Lab/Home Lab.md",
+    "Home Lab",
+    "External resources/QuirkyKirkHax notes.md",
+    "External resources",
+    "References/FoAI/Game Playing.md",
     "Projects/Trading",
     "Projects",
     "References/FoAI/Exam Index.md",
@@ -344,16 +366,9 @@
     "HTB Learn/Network Topologies.md",
     "HTB CTF/HTB Starting Point.md",
     "Network+/Network+ Index.md",
-    "HTB Learn/ARP.md",
-    "HTB Learn/Proxy.md",
-    "HTB Learn/ICMP.md",
-    "HTB Learn/TCP IP.md",
     "Google Cloud Skills/Artificial Intelligence/G-GENAI-I-m1-l2-en-file-2.en.pdf",
     "Google Cloud Skills/Artificial Intelligence/G-GENAI-I-m1-l2-en-file-2.en.pdf.crdownload",
     "Photos/Pasted image 20240717161419.png",
-    "Google Cloud Skills/Artificial Intelligence",
-    "Google Cloud Skills",
-    "HTB CTF",
-    "ISC2"
+    "Google Cloud Skills/Artificial Intelligence"
   ]
 }
